@@ -1,0 +1,20 @@
+Name: John Doe
+Age: 30
+Contact: 1234567890
+Test Result: Positive
+
+Name: sandhya
+Age: 19
+Contact: 908709
+Test Result: negative
+
+Name: niraj
+Age: 20
+Contact: 879098
+Test Result: positive
+
+Name: mansi
+Age: 34
+Contact: 980789
+Test Result: positive
+
